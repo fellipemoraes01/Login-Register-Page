@@ -16,6 +16,11 @@ Este projeto consiste em uma simples página web desenvolvida com o objetivo de 
 - Preenchimento básico de formulários
 - Design responsivo para melhor experiência em dispositivos móveis
 
+## Screenshot
+
+![Página Incial com Registro Aberto](https://github.com/user-attachments/assets/b5e0330b-793b-4fd8-86dd-60e6337a990d)
+
+
 ## Contato
 
 Fellipe Moraes Macedo
