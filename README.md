@@ -19,5 +19,6 @@ Este projeto consiste em uma simples página web desenvolvida com o objetivo de 
 ## Contato
 
 Fellipe Moraes Macedo
+
 [LinkedIn](https://www.linkedin.com/in/fellipe-moraes-macedo-682b42235/)  
 [GitHub](https://github.com/fellipemoraes01)
